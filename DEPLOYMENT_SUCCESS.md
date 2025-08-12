@@ -8,14 +8,14 @@
 ## 🌐 启用GitHub Pages：
 
 ### 方法1: 使用dashboard分支 (推荐)
-1. 访问: https://github.com/Only-Bugs/just-park/settings/pages
+1. 访问: https://github.com/WoShiDaDaShuaiGe/just-park/settings/pages
 2. Source选择: "Deploy from a branch"
 3. Branch选择: `dashboard`
 4. Folder选择: `/ (root)`
 5. 点击 "Save"
 
 **你的dashboard将在这里可用:**
-**https://Only-Bugs.github.io/just-park**
+**https://WoShiDaDaShuaiGe.github.io/just-park**
 
 ### 方法2: 创建独立仓库 (可选)
 如果你想要独立的URL，可以：
